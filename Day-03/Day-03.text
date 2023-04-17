@@ -1,0 +1,64 @@
+Day-03[17-04-2023]:
+===================
+	Good Morning to All..
+
+	Conditional Statements
+	Loops
+
+Task:
+=====
+	Concepts:
+	=========
+		- Jumping Statements
+		- Nested Loops or Inner Loops
+		- Function types 
+		- Userdefined Function types
+		- Argument Types
+
+	Problems:
+	=========
+	1.
+		Input:
+			3
+			5
+		Output:
+			3 x 01 = 03
+			3 x 02 = 06
+			3 x 03 = 09
+			3 x 04 = 12
+			3 x 05 = 15
+
+		Input:
+			5
+			4
+		Output:
+			5 x 01 = 05
+			5 x 02 = 10
+			5 x 03 = 15
+			5 x 04 = 20
+	
+	2:
+		Input:
+			2
+			8
+		Output:
+			229Y1A0502	219Y1A0502
+			229Y1A0503	219Y1A0503
+			229Y1A0504	219Y1A0504
+			229Y1A0505	219Y1A0505
+			229Y1A0506	219Y1A0506
+			229Y1A0507	219Y1A0507
+			229Y1A0508	219Y1A0508
+
+	3:
+		Input:
+			2
+			8
+		Output:
+			229Y1A0502	219Y1A0508
+			229Y1A0503	219Y1A0507
+			229Y1A0504	219Y1A0506
+			229Y1A0505	219Y1A0505
+			229Y1A0506	219Y1A0504
+			229Y1A0507	219Y1A0503
+			229Y1A0508	219Y1A0502		
