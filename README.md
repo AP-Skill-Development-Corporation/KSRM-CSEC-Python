@@ -13,3 +13,7 @@ Python for First Years
   - Python and Pip version check,pip upgrade
   - Installation of Jupyter notebook
   - Output formatting,typecasting,Operators and Keywords with sample example on each
+
+# Day-03(17-04-2023):
+  - Conditional Statements with sample examples on each
+  - Loops and range overview, sample example on for
