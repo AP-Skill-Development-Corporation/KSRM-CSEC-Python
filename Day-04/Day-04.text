@@ -1,0 +1,34 @@
+Day-04[18-04-2023]:
+===================
+	Good Morning to All...
+
+	While explanation
+	Jumping statements
+	Inner Loops
+	Functions and UserDefined Function types
+	Argument types [Default and Required]
+
+Task:
+=====
+	Concepts:
+	=========
+		- All Data Structures Overview with their methods [List,Tuple,Set,Dictionary and String]
+		- Study all concepts from Day-01 to Still now for exam
+
+	Problem:
+	========
+	1. Implement by using user defined function types
+
+		Input:
+			14785
+		Output:
+			Given number is: 14785
+			Reverse of Left half number for 14785 is: 41785
+			Reverse of Right half number for 14785 is: 14758
+
+		Input:
+			4859
+		Output:
+			Given number is: 4859
+			Reverse of Left half number for 4859 is: 8459
+			Reverse of Right half number for 4859 is: 4895
