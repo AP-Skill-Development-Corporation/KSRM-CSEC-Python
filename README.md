@@ -17,3 +17,10 @@ Python for First Years
 # Day-03(17-04-2023):
   - Conditional Statements with sample examples on each
   - Loops and range overview, sample example on for
+
+# Day-04(18-04-2023):
+  - While explanation with sample example on it
+  - Jumping Statements[break,continue,pass] with sample example on each
+  - Inner Loops explanation with an example
+  - Function types and Userdefined function types with sample example on each
+  - Argument types[required and default] with sample example on each
