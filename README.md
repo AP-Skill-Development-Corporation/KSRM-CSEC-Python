@@ -24,3 +24,8 @@ Python for First Years
   - Inner Loops explanation with an example
   - Function types and Userdefined function types with sample example on each
   - Argument types[required and default] with sample example on each
+
+# Day-05(19-04-2023):
+  - Argument types[keyword and variable-length] with sample examples on each
+  - Data Structures Overview[List,Tuple,Set,String and Dictionary]
+  - List methods with sample examples on each
