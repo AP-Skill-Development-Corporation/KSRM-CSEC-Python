@@ -29,3 +29,6 @@ Python for First Years
   - Argument types[keyword and variable-length] with sample examples on each
   - Data Structures Overview[List,Tuple,Set,String and Dictionary]
   - List methods with sample examples on each
+
+# Day-06(20-04-2023):
+  - Tuple,Set and Dictionary methods with sample examples on each
